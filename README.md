@@ -22,6 +22,7 @@ In order to start using the project you need to clone it to your computer. You c
 After you have it on you pc, you need to go in the console to the project folder and execute the following command to gather all the dependencies.
 ```
 npm install
+gulp
 ```
 
 ***
